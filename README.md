@@ -5,7 +5,7 @@ Handles Multiple Clients
 To Run 
 
 	-Bash or Linux Terminal
-	-Run Make
+	-Run Makefile
 	-./server
 	-New Terminal, could be multiple terminals
 	-./client [username]
