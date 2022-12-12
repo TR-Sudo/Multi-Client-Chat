@@ -1,6 +1,6 @@
 # Server Chat
 
-Handles Multiple Clients
+* Chat server that retrives and sends messages to multiple clients.
 
 To Run 
 
